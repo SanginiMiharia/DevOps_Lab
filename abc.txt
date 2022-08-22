@@ -1,0 +1,2 @@
+Lines 1 in second branch
+Lines 2 in second branch
