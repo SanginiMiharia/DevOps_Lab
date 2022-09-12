@@ -6,3 +6,6 @@ Line 2
 Lines 1 in second branch
 Lines 2 in second branch
 >>>>>>> sec_branch
+
+So again My name is Sangini
+
